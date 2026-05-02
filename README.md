@@ -1,4 +1,6 @@
-# Samia Fabiha  
+# Samia Fabiha 
+![Profile Photo](photo.jpg)
+
 
 ## Career Objective  
 I am a CSE student interested in Flutter and web development. I want to build user-friendly applications and improve my programming skills.
