@@ -1,5 +1,8 @@
 # Samia Fabiha 
-![Profile Photo](photo.jpg)
+<p align="center">
+  <img src="photo.jpg" width="150" style="border-radius: 50%;" />
+</p>
+
 
 
 ## Career Objective  
