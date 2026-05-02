@@ -31,5 +31,5 @@ Android app with login, send money, and transaction history.
 ---
 
 ## Contact  
-Email: yourmail@gmail.com  
-GitHub: https://github.com/yourusername  
+Email: samiafabiha2020@gmail.com  
+GitHub: https://github.com/samiafabiha.assignment.io  
